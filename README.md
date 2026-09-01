@@ -37,7 +37,7 @@ Actualmente desarrollo y mantengo soluciones web para clientes del sector de la 
 ## 📫 Contacto
 
 - 📧 **Email:** patoog58@gmail.com
-- 💼 **LinkedIn:** [Patricio Guevara](https://www.linkedin.com/in/patoo92)
+- 💼 **LinkedIn:** [Patricio Guevara](https://www.linkedin.com/in/patricio-guevara)
 - 👨‍💻 **GitHub:** [@patoo92](https://github.com/patoo92)
 
 ---
