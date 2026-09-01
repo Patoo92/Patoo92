@@ -27,11 +27,14 @@ Soy emprendedor y desarrollo soluciones digitales para empresas y profesionales 
 |----------|-------------|-------------|
 | [**EverClima**](https://github.com/Patoo92/everclima) | Web corporativa para empresa de instalaciones de climatización | HTML, CSS, JS, GitHub Actions |
 | [**Tienclimatek**](https://github.com/Patoo92/Tienclimatek_web) | Landing page para empresa de soluciones energéticas | HTML, CSS, JS, GitHub Actions |
-
+| [**mi_catalogo**](https://github.com/Patoo92/micatalogo) | Catálogo digital para gestión de negocio | Python, SQLite |
+| [**HUBtek**](https://github.com/Patoo92/HUBtek) | Gestor de mediciones e instalaciones de climatización | Python, Tkinter, SQLite |
+| **Mayim Perfumes** *(privado)* | E-commerce de perfumes árabes premium | HTML, CSS, JS |
+| [**ASISVE**](https://github.com/Patoo92/proyecto_asisve) *(voluntariado ONG)* | Proyecto de voluntariado para una ONG | HTML, CSS, JS |
 
 ## 🎯 En qué estoy trabajando
 
-Actualmente desarrollo y mantengo soluciones web para clientes del sector de la climatización y la energía, y sigo ampliando mis proyectos de automatización y gestión.
+Actualmente desarrollo y mantengo soluciones web para clientes del sector de la climatización y la energía, y sigo ampliando mis proyectos de automatización y gestión. También colaboro en proyectos solidarios para ONGs y causas sociales.
 
 ## 📫 Contacto
 
