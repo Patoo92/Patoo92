@@ -40,9 +40,4 @@ Actualmente desarrollo y mantengo soluciones web para clientes del sector de la 
 - 💼 **LinkedIn:** [Patricio Guevara](https://www.linkedin.com/in/patricio-guevara)
 - 👨‍💻 **GitHub:** [@patoo92](https://github.com/patoo92)
 
----
-
 > *"Convertir ideas en soluciones digitales que funcionan."*
-
----
-*README generado y mantenido con ♥ por Patricio Guevara*
