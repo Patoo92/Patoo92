@@ -27,8 +27,7 @@ Soy emprendedor y desarrollo soluciones digitales para empresas y profesionales 
 |----------|-------------|-------------|
 | [**EverClima**](https://github.com/Patoo92/everclima) | Web corporativa para empresa de instalaciones de climatización | HTML, CSS, JS, GitHub Actions |
 | [**Tienclimatek**](https://github.com/Patoo92/Tienclimatek_web) | Landing page para empresa de soluciones energéticas | HTML, CSS, JS, GitHub Actions |
-| [**mi_catalogo**](https://github.com/Patoo92/micatalogo) | Catálogo digital para gestión de negocio | Python, SQLite |
-| [**HUBtek**](https://github.com/Patoo92/HUBtek) | Gestor de mediciones e instalaciones de climatización | Python, Tkinter, SQLite |
+
 
 ## 🎯 En qué estoy trabajando
 
