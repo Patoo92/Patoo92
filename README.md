@@ -30,6 +30,7 @@ Soy emprendedor y desarrollo soluciones digitales para empresas y profesionales 
 | [**php-commerce**](https://github.com/Patoo92/php-commerce) *(privado)* | SaaS multi-tenant de catálogos digitales con pedidos WhatsApp y pasarela de pago Stripe | PHP, MySQL, Stripe, Bootstrap |
 | **Mayim Perfumes** *(privado)* | E-commerce de perfumes árabes premium | HTML, CSS, JS |
 | [**ASISVE**](https://github.com/Patoo92/proyecto_asisve) *(voluntariado ONG)* | Proyecto de voluntariado para una ONG | HTML, CSS, JS |
+| [**LISBOA**](https://github.com/Patoo92/LISBOA) *(privado)* | Asistente personal de escritorio con arquitectura de agentes, modelos locales (Ollama) y Gemini | Python, PySide6, Ollama |
 
 ## 🎯 En qué estoy trabajando
 
